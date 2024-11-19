@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../Assets/img/foodvilla.png";
+import Logo from "../Assets/img/Foodvilla.png";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../../utils/useOnlineStatus";
 import { useSelector } from "react-redux";
