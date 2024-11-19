@@ -1052,4 +1052,4 @@ export const IMG_CDN_URL2 = "https://media-assets.swiggy.com/swiggy/image/upload
    },
 ]
 
-export const  MENU_API = "https://bitebazar.onrender.com/api/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=17.406498&lng=78.47724389999999&restaurantId=";
+export const  MENU_API = "https://bitebazar.onrender.com/api/menu?page-type=REGULAR_MENU&complete-menu=true&lat=17.406498&lng=78.47724389999999&restaurantId=";
